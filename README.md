@@ -23,7 +23,7 @@ It starts with a beginners guide, followed up by some medium-advanced concepts.
 			<li><a href="#index-7.4">Relinking</a></li>
 		</ul>
 	</ul>
-	<!-- <li>Advanced topics</li>
+	<li>Advanced topics</li>
 	<ul>
 		<li><a href="#builtin-targets">Builtin Targets</a></li>
 		<li><a href="#if-directives">The ifdef, ifndef, ifeq, ifneq directives</a></li>
@@ -38,7 +38,7 @@ It starts with a beginners guide, followed up by some medium-advanced concepts.
 		<li><a href="#activate-debug">Activate debug commands/flags with conditionals</a></li>
 		<li><a href="#general-tips">General tips</a></li>
 	</ul>
-	<li>Questions</li> -->
+	<li>Questions</li>
 </ul>
 
 
